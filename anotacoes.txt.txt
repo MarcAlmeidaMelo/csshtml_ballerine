@@ -1,0 +1,11 @@
+- Utilizar somente um <H1> por paginasnippet
+
+- 3 formas de usar o css: style (propriedade: valor)
+
+ 	inline  <- maior hierarquia 
+
+	outside <- mais usado
+
+	inside <- segunda prioridade
+
+-css sensível a espaço
